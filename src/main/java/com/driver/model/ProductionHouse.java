@@ -59,4 +59,5 @@ public class ProductionHouse {
     public void setRatings(double ratings) {
         this.ratings = ratings;
     }
+
 }
